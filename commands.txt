@@ -1,0 +1,2 @@
+cd .\apigateway
+.\mvnw.cmd spring-boot:run
